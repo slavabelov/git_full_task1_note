@@ -1,6 +1,7 @@
 New_code
 
 import os
+import Random
 
 def note_creation():
     #Создание заметки
