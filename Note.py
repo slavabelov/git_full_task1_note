@@ -1,3 +1,5 @@
+#Редактирую файл
+import random
 import os
 
 def note_creation():
